@@ -4,6 +4,14 @@ This project made with Vue.js and Node.js.
 
 And still in development, your guys can help me to develop this project.
 
+## API
+```sh
+https://api.0xchain.org/method
+
+method = getSummary, getByCountries, getByCapitals, getByContinents, getByStates, getByCitys, getByISPs, getByClients, getByClientTypes, getByClientOSs, getTopByCountries, getTopByISPs, getNodeStats, getCharts, getStats
+```
+
+
 ## Project Setup
 
 ```sh
