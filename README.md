@@ -1,6 +1,7 @@
 # vue-front-end
 
 This project made with Vue.js and Node.js.
+
 And still in development, your guys can help me to develop this project.
 
 ## Project Setup
